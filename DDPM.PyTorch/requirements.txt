@@ -1,0 +1,8 @@
+python==3.10
+jupyterlab
+pytorch 
+torchvision
+tqdm
+matplotlib
+einops
+datasets
